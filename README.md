@@ -9,7 +9,7 @@
 
 ## To Use
 
-Go to https://suitsmemorygame.netlify.app
+Go to https://memorygamenba.netlify.app
 
 Or 
 
